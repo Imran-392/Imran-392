@@ -1,6 +1,6 @@
 # Hi there, I'm Imran Ansari! 👋
 
-🚀 **Aspiring Full-Stack Developer | MERN Stack Enthusiast | Computer Engineering Student**
+🚀 **Aspiring Software Engineer | MERN Stack Enthusiast | Computer Engineering Student**
 
 ---
 
